@@ -1,7 +1,7 @@
 {
 	"ip":"_hakdog.aternos.me",
 	"port": 56855,
-	"name": "24/7onlineBOT",
+	"name": "BOT",
 	"auto-night-skip":"true",
 	"login-enabled":"false",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
